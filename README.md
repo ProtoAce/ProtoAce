@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Misha</h1>
-- 📫 How to reach me **mishagoldenberg@gmail.com**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Misha</h1>
+
+I'm a software developer currently studying at Simon Fraser University
+
+📫 How to reach me **mishagoldenberg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
