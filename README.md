@@ -2,6 +2,8 @@
 
 I'm a software developer currently studying at Simon Fraser University
 
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
+
 📫 How to reach me **mishagoldenberg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
