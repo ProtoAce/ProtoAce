@@ -4,12 +4,6 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/misha goldenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misha goldenberg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/misha.goldenberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misha goldenberg" height="30" width="40" /></a>
-<a target="_blank" href="mailto:mishagoldenberg@gmail.com" alt="Gmail"><img align="center" src="https://github.com/ProtoAce/ProtoAce/blob/main/Gmail-Logo.png" height="25" width="40"</a>
-</p>
 
 [<img align="left" height="94px" width="94px" alt="Rainforest Automation" src="https://github.com/ProtoAce/ProtoAce/blob/main/rfa.jpg?raw=true"/>](https://rainforestautomation.com/)
 
@@ -17,6 +11,18 @@
 [**Rainforest Automation**](https://rainforestautomation.com/) • Full-time \
 Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dart` \
 <br/>
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/misha goldenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misha goldenberg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/misha.goldenberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misha goldenberg" height="30" width="40" /></a>
+<a target="_blank" href="mailto:mishagoldenberg@gmail.com" alt="Gmail"><img align="center" src="https://github.com/ProtoAce/ProtoAce/blob/main/Gmail-Logo.png" height="25" width="40"</a>
+</p>
+
+
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=protoace&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Misha's GitHub Stats" />
