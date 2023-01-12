@@ -2,15 +2,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=52A248&center=true&vCenter=true&width=700&height=75&lines=Hi%2C+I'm+Misha!;I+am+currently+studying+CS+at+SFU.;I+like+C%2B%2B%2C+algorithms%2C+and+climbing!" alt="Typing SVG" /></a>
 </p>
 
-<br/><br/><br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" alt="Rainforest Automation" src="https://github.com/ProtoAce/ProtoAce/blob/main/rfa.jpg?raw=true"/>](https://rainforestautomation.com/)
+
+**Job Experience:**
+<br/>
 
 **Software Developer Co-Op** \
 [**Rainforest Automation**](https://rainforestautomation.com/) • Full-time \
 Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dart` \
 
-<br/><br/><br/>
+<br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
