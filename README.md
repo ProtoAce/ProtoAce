@@ -11,8 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/misha goldenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misha goldenberg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/misha.goldenberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misha goldenberg" height="30" width="40" /></a>
-<a target="_blank" href="mishagoldenberg@gmail.com" alt="Gmail">
-  <img src="https://github.com/ProtoAce/ProtoAce/blob/main/Gmail.svg?raw=true"</a>
+<a target="_blank" href="mishagoldenberg@gmail.com" alt="Gmail"><img align="center" src="https://github.com/ProtoAce/ProtoAce/blob/main/Gmail-Logo.jpg"</a>
 </p>
 
 [<img align="left" height="94px" width="94px" alt="Rainforest Automation" src="https://github.com/ProtoAce/ProtoAce/blob/main/rfa.jpg?raw=true"/>](https://rainforestautomation.com/)
