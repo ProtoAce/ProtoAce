@@ -33,7 +33,7 @@ Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dar
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protoace&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Protonator&theme=dark)](https://github.com/protonator/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Protonator&theme=dark)](https://leetcode.com/protonator)
 
 
 <h3 align="left">Languages and Tools:</h3>
