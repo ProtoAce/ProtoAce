@@ -4,10 +4,10 @@
 
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" alt="Rainforest Automation" src="https://github.com/ProtoAce/ProtoAce/blob/main/rfa.jpg?raw=true"/>](https://rainforestautomation.com/)
-
 **Job Experience:**
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Rainforest Automation" src="https://github.com/ProtoAce/ProtoAce/blob/main/rfa.jpg?raw=true"/>](https://rainforestautomation.com/)
 
 **Software Developer Co-Op** \
 [**Rainforest Automation**](https://rainforestautomation.com/) • Full-time \
