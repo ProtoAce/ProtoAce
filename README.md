@@ -2,7 +2,7 @@
 
 <!-- <img src="https://github.com/proto/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img> -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=52A248&center=true&vCenter=true&width=700&height=75&lines=Hi%2C+I'm+Misha!;I+am+currently+studying+CS+at+SFU;I+like+C%2B%2B%2C+algorithms%2C+and+climbing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=52A248&center=true&vCenter=true&width=700&height=75&lines=Hi%2C+I'm+Misha!;I+am+currently+studying+CS+at+SFU.;I+like+C%2B%2B%2C+algorithms%2C+and+climbing!" alt="Typing SVG" /></a>
 </p>
 
 📫 How to reach me **mishagoldenberg@gmail.com**
@@ -11,6 +11,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/misha goldenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misha goldenberg" height="30" width="40" /></a>
 </p>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/protoace/protoace/main/images/warpnet.png?raw=true"/>](https://rainforestautomation.com/)
+
+**Software Developer Co-Op** \
+[**Rainforest Automation**](https://rainforestautomation.com/) • Full-time \
+Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dart` \
+<br/>
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=protoace&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Misha's GitHub Stats" />
