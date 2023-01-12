@@ -4,7 +4,8 @@
 
 <br/><br/>
 
-**Job Experience:**
+<h3 align="left">Job Experience:</h3>
+
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rainforest Automation" src="https://github.com/ProtoAce/ProtoAce/blob/main/rfa.jpg?raw=true"/>](https://rainforestautomation.com/)
