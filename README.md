@@ -4,7 +4,7 @@ I'm a software developer currently studying at Simon Fraser University
 
 <img src="https://github.com/proto/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+i'm+Misha!;I+am+currently+studying+Computer+Science+at+Simon+Fraser+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=52A248&center=true&vCenter=true&width=700&height=75&lines=Hi%2C+I'm+Misha!;I+am+currently+studying+CS+at+SFU;I+like+C%2B%2B%2C+algorithms%2C+and+climbing!)](https://git.io/typing-svg)
 
 
 📫 How to reach me **mishagoldenberg@gmail.com**
