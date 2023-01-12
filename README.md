@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/misha goldenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misha goldenberg" height="30" width="40" /></a>
 </p>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/protoace/protoace/main/images/warpnet.png?raw=true"/>](https://rainforestautomation.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/protoace/protoace/main/rfa.jpg?raw=true"/>](https://rainforestautomation.com/)
 
 **Software Developer Co-Op** \
 [**Rainforest Automation**](https://rainforestautomation.com/) • Full-time \
