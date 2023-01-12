@@ -3,8 +3,6 @@
 </p>
 
 <br/><br/>
-<a href="https://leetcode.com/Protonator/"><img src="https://leetcode.card.workers.dev/?username=protonator
-" alt="Typing SVG" /></a>
 
 <h3 align="left">Job Experience:</h3>
 
@@ -24,8 +22,11 @@ Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dar
 <a href="https://www.instagram.com/misha.goldenberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misha goldenberg" height="30" width="40" /></a>
 <a target="_blank" href="mailto:mishagoldenberg@gmail.com" alt="Gmail"><img align="center" src="https://github.com/ProtoAce/ProtoAce/blob/main/Gmail-Logo.png" height="25" width="40"</a>
 </p>
+  <br/>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=protonator&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-<br/><br/><br/>
+
+<br/><br/>
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
