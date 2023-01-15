@@ -26,14 +26,20 @@ Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dar
 <br/>
 
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=protoace&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Misha's GitHub Stats" />
 </a>
- <a href="https://github.com/MartinHeinz/MartinHeinz">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protoace&show_icons=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
  
-[![Misha's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Protonator&theme=dark)](https://leetcode.com/protonator)
+  <p align="center">
+
+ <a href="https://leetcode.com/protonator">
+    <img width=325 align="center" src="https://leetcode-stats-six.vercel.app/?username=Protonator&theme=dark" />
+  </a>
+  </p>
+<!-- [![Misha's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Protonator&theme=dark)](https://leetcode.com/protonator) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
