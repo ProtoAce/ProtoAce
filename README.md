@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=52A248&center=true&vCenter=true&width=700&height=75&lines=Hi%2C+I'm+Misha!;I+am+currently+studying+CS+at+SFU.;I+like+C%2B%2B%2C+algorithms%2C+and+climbing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61dafb&center=true&vCenter=true&width=700&height=75&lines=Hi%2C+I'm+Misha!;I+am+currently+studying+CS+at+SFU.;I+like+C%2B%2B%2C+algorithms%2C+and+climbing!" alt="Typing SVG" /></a>
 </p>
 
 <br/><br/>
@@ -27,7 +27,7 @@ Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dar
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=protoace&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Misha's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=protoace&show_icons=true&line_height=27&count_private=true&title_color=61dafb&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Misha's GitHub Stats" />
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protoace&show_icons=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
