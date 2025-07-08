@@ -25,15 +25,6 @@ Languages & Technologies: `React`, `React native`, `JavaScript`, `Flutter`, `Dar
 
 <br/>
 
-<div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=protoace&show_icons=true&line_height=27&count_private=true&title_color=61dafb&text_color=c9cacc&icon_color=61dafb&bg_color=1d1f21&hide_border=true" alt="Misha's GitHub Stats" />
-</a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protoace&show_icons=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=1d1f21&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-</div>
-
 </br>
  
   <p align="center">
